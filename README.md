@@ -3,11 +3,8 @@
 
 <h2 align="center">About</h2>
 <h3 align="center">Words are randomly generated and saved in sentences. Perfect for Pictionary games.</h3>
-<br>
 
 ---
-
-<br>
 
 ### Prerequisites
 
