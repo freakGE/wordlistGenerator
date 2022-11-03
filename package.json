@@ -1,0 +1,8 @@
+{
+  "name": "wordlistGenerator",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Words are randomly generated and saved in sentences. Perfect for Pictionary games.",
+  "main": "index.js",
+  "license": "MIT"
+}
